@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ek3XkXvgaFJ+AY0YZnLVNq+Ssj3Tn/57wqLpTv1PW24yn+oFdCeKvLHC1jn+CPymElAL7gI6QODnvmNPuBwXfA==",
+  "success": true,
+  "projectFilePath": "C:\\testEcheancierBack\\TestEcheancier\\TestEcheancier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MD ORDI\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\MD ORDI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

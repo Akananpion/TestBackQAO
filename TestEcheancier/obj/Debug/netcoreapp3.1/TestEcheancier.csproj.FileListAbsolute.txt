@@ -1,0 +1,16 @@
+C:\testEcheancierBack\TestEcheancier\bin\Debug\netcoreapp3.1\TestEcheancier.exe
+C:\testEcheancierBack\TestEcheancier\bin\Debug\netcoreapp3.1\TestEcheancier.deps.json
+C:\testEcheancierBack\TestEcheancier\bin\Debug\netcoreapp3.1\TestEcheancier.runtimeconfig.json
+C:\testEcheancierBack\TestEcheancier\bin\Debug\netcoreapp3.1\TestEcheancier.runtimeconfig.dev.json
+C:\testEcheancierBack\TestEcheancier\bin\Debug\netcoreapp3.1\TestEcheancier.dll
+C:\testEcheancierBack\TestEcheancier\bin\Debug\netcoreapp3.1\TestEcheancier.pdb
+C:\testEcheancierBack\TestEcheancier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\testEcheancierBack\TestEcheancier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\testEcheancierBack\TestEcheancier\obj\Debug\netcoreapp3.1\TestEcheancier.csprojAssemblyReference.cache
+C:\testEcheancierBack\TestEcheancier\obj\Debug\netcoreapp3.1\TestEcheancier.AssemblyInfoInputs.cache
+C:\testEcheancierBack\TestEcheancier\obj\Debug\netcoreapp3.1\TestEcheancier.AssemblyInfo.cs
+C:\testEcheancierBack\TestEcheancier\obj\Debug\netcoreapp3.1\TestEcheancier.csproj.CoreCompileInputs.cache
+C:\testEcheancierBack\TestEcheancier\obj\Debug\netcoreapp3.1\TestEcheancier.csproj.CopyComplete
+C:\testEcheancierBack\TestEcheancier\obj\Debug\netcoreapp3.1\TestEcheancier.dll
+C:\testEcheancierBack\TestEcheancier\obj\Debug\netcoreapp3.1\TestEcheancier.pdb
+C:\testEcheancierBack\TestEcheancier\obj\Debug\netcoreapp3.1\TestEcheancier.genruntimeconfig.cache
